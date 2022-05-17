@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soukayna AYOUJJIL</h1>
 <h3 align="center">A Big Data and Cloud Computing engineering student</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 <p align="center"> <img alt="introuvable" src="Data%20extraction-amico.png" height="300px"/> </p>
-- 👨‍💻 All of my projects are available at [https://sayoujjil.github.io/AYOUJJILSoukayna_Portfolio/](https://sayoujjil.github.io/AYOUJJILSoukayna_Portfolio/)
 
 - 📫 How to reach me **soukaynaayoujjil@gmail.com**
 
