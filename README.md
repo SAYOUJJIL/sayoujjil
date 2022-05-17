@@ -3,11 +3,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 <p align="center"> <img alt="introuvable" src="Data%20extraction-amico.png" height="300px"/> </p>
 
-- 👨‍💻 All of my projects are available at (https://sayoujjil.github.io/AYOUJJILSoukayna_Portfolio/)
+* 👨‍💻 All of my projects are available at (https://sayoujjil.github.io/AYOUJJILSoukayna_Portfolio/)
 
-- 📫 How to reach me **soukaynaayoujjil@gmail.com**
+* 📫 How to reach me **soukaynaayoujjil@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+* ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
